@@ -3248,6 +3248,30 @@ input, select, textarea {
 					padding: 0;
 				}
 
+
+
+.link_container{
+display: flex;
+}
+
+#redux_icon{
+background-image: url(./images/redux.png);
+background-repeat: no-repeat;
+background-size: contain;
+width: 100px;
+height: 100px;
+margin-left:28px;
+}
+
+#psql_icon{
+	background-image: url(./images/Postgresql_elephant.png);
+background-repeat: no-repeat;
+background-size: contain;
+width: 133px;
+height: 115px;
+margin-left:28px;
+}
+
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
