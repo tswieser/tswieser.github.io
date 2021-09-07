@@ -3272,6 +3272,26 @@ height: 115px;
 margin-left:28px;
 }
 
+#express_icon{
+	background-image: url(./images/expressImg.png);
+background-repeat: no-repeat;
+background-size: contain;
+width: 159px;
+height: 115px;
+margin-left:28px;
+margin-top: 48px;
+}
+
+#node_icon{
+    background-image: url(./images/node.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 265px;
+    height: 95px;
+    margin-left: -40px;
+    margin-top: 28px;
+}
+
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
